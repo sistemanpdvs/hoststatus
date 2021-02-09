@@ -48,6 +48,6 @@ Simple bash script to monitor whether hosts are up or not.
   |  445  | 176  | CAMINO ITAPECURÚMIRINM   |  146  |
   |  446  | 175  | CAMINO SANTA LUZIA       |       |
   |  447  | 174  | CAMINO TUTÓIA            |  193  |
-  ---------------------------------------------------```
+  ---------------------------------------------------
   |               TOTAL - 41 FILIAIS                |
   --------------------------------------------------- ```
