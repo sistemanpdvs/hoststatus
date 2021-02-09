@@ -2,7 +2,7 @@
 Simple bash script to monitor whether hosts are up or not.
 
 
-```bash--------------------------------------------------- ```
+```bash---------------------------------------------------
   |       PAINEL LOJAS - REGIONAL SANTA INÊS        |
   ---------------------------------------------------
   | LOJAS | TEFs | CIDADE                   | FAIXA |
@@ -50,4 +50,4 @@ Simple bash script to monitor whether hosts are up or not.
   |  447  | 174  | CAMINO TUTÓIA            |  193  |
   ---------------------------------------------------
   |               TOTAL - 41 FILIAIS                |
-  --------------------------------------------------- ```
+  ---------------------------------------------------
