@@ -2,9 +2,9 @@
 Simple bash script to monitor whether hosts are up or not.
 
 
-``` --------------------------------------------------- 
-  |       PAINEL LOJAS - REGIONAL SANTA INÊS        |
-  ---------------------------------------------------
+```bash --------------------------------------------------- 
+```bash  |       PAINEL LOJAS - REGIONAL SANTA INÊS        |
+```bash---------------------------------------------------
   | LOJAS | TEFs | CIDADE                   | FAIXA |
   ---------------------------------------------------
   |  3    | 3    | SUPER SANTA INÊS         |  3    |
